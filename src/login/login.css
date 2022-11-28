@@ -1,0 +1,121 @@
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  height: 500px;
+  /* background-color: blue; */
+}
+.style {
+  text-align: left;
+}
+.style-center {
+  text-align: center;
+}
+.bi-apple {
+  font-size: 30px;
+}
+
+.header-left {
+  float: left;
+  width: 50%;
+  border-width: 1px;
+  border-color: pink;
+  background-color: blue;
+  /* padding-bottom: 30px; */
+  padding-top: px;
+}
+
+.header-right {
+  float: left;
+  width: 50%;
+  /* border-style: solid; */
+  border-width: 1px;
+  border-color: black;
+  font-size: 25px;
+  /* padding-bottom: 30px; */
+}
+.header {
+  background-color: #a4be5c;
+  /* background-color: red; */
+  padding: 25px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: black;
+}
+
+.span-logo {
+  padding-right: 80%;
+}
+
+.nav-bar {
+  /* background-color: #556b2f; */
+  color: black;
+  text-decoration: none;
+  height: 50px;
+  border-style: solid;
+  border-color: blue;
+  border-width: 4px;
+  /* overflow: hidden; */
+}
+.a-style {
+  /* padding-left: 50%; */
+  padding-top: 15px;
+  padding-right: 76%;
+  padding-bottom: 18px;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+}
+
+.nav-bar a {
+  color: black;
+  padding-left: 5px;
+  padding-bottom: 50%;
+  text-decoration: none;
+}
+.style1 input {
+  position: left;
+}
+
+.container {
+  padding: 16px;
+  margin: 10px 0px;
+}
+
+.error {
+  color: red;
+  text-align: left;
+}
+
+.spacing {
+  margin: 0px;
+}
+
+/* .style2 {
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+} */
+
+.style input {
+  border-radius: 5px;
+  height: 100%;
+  height: 30px;
+  width: 100%;
+}
+.btn {
+  width: 100%;
+  border-radius: 5px;
+  height: 40px;
+}
+.loginbtn {
+  background-color: blue;
+  color: white;
+}
+
+.registerbtn {
+  background-color: white;
+  color: black;
+}
